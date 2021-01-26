@@ -5,13 +5,13 @@
   "unity": "2018.3",
   "description": "A simple rule based addressable asset importer.",
   "dependencies": {
-    "com.unity.addressables": "1.1.5"
+    "com.unity.addressables.cn": "1.17.0"
   },
   "author": {
     "name": "Favo Yang",
     "url": "https://github.com/favoyang"
   },
-  "repository": "https://github.com/favoyang/unity-addressable-importer.git",
+  "repository": "https://github.com/OptimisticQuan/unity-addressable-importer.git",
   "license": "MIT",
   "type": "tool"
 }
